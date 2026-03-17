@@ -48,7 +48,7 @@ Python CLI app that fetches and formats Formula 1 driver standings from a public
 - working with external APIs
 - parsing and formatting data
 - command-line application structure
-- beginner-friendly Python project design
+- command-line application design
 
 [View Project](https://github.com/patrickfals/f1-driver-standings-cli)
 
