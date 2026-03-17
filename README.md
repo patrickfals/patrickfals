@@ -2,7 +2,7 @@
 
 Software Engineering student building backend and API projects with Python, FastAPI, Node.js, SQL, and Flask.
 
-I'm focused on becoming a strong software engineer by building projects that practice:
+Focused building projects that practice:
 - API design
 - backend architecture
 - databases and SQL
