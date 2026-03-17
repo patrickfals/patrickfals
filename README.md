@@ -62,5 +62,5 @@ Python • FastAPI • Flask • Node.js • Express • SQL • SQLite • Git 
 - building projects that reflect real software engineering workflows
 
 ## Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/patrickfals/]
+- LinkedIn: https://www.linkedin.com/in/patrickfals/
 - GitHub: [github.com/patrickfals](https://github.com/patrickfals)
